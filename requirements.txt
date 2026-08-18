@@ -1,0 +1,8 @@
+cupy
+numpy
+Pillow
+imageio
+imageio-ffmpeg
+pygame
+moderngl
+imgui-bundle
