@@ -1,7 +1,5 @@
 # Nuclear Simulation ⚛️
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()
-
 <img width="800" height="800" alt="FUSION_ALPHA_SPEDUP-ezgif com-video-to-gif-converter(1)" src="https://github.com/user-attachments/assets/544b845e-0535-4429-a13b-c36a7c2def4b" />
 
 
@@ -125,3 +123,10 @@ Computer Physics Communications **185**, 2195-2216 (2014).
 - NVIDIA GPU compatible with CUDA 12.x (CuPy: cupy-cuda12x)
 - Python 3.10+
 - Libraries: check requirements.txt
+
+## License & Copyright
+
+Copyright (c) 2026 cridisal. All rights reserved.
+
+This project and its source code are provided strictly for educational and demonstration purposes. No portion of this software may be copied, modified, redistributed, or used for commercial purposes without explicit prior written permission from the author.
+
