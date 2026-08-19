@@ -95,9 +95,9 @@ However, because explicit two-body collisions are not included, TDHF is most rel
 
 The simulation is performed on a three-dimensional Cartesian grid without symmetry assumptions.
 
-Key numerical features inherited from the Sky3D formalism include:
+Key numerical features include:
 
-* 3D spatial discretization,
+* 2D spatial discretization,
 * self-consistent density evolution,
 * Fourier-based derivative evaluation,
 * time propagation through the TDHF evolution operator,
