@@ -28,7 +28,7 @@ SCENARIO = [
     {"t": T_COOL, "action": "set_cooling", "on": False},
     {"t": 11.0, "action": "launch", "body_index": 0, "speed": 0.2},
     {"t": 11.0, "action": "launch", "body_index": 1, "speed": -0.2},
-    {"t": 11.0, "action": "log", "msg": "Lancio a bassa energia: cattura, non scattering."},
+    {"t": 11.0, "action": "log", "msg": "Launched the nuclei"},
     {"t": 20.0, "action": "log"},
     {"t": 30.0, "action": "log"},
     {"t": 40.0, "action": "log"},
