@@ -2,6 +2,11 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)]()
 
+<img width="800" height="800" alt="FUSION_ALPHA_SPEDUP-ezgif com-video-to-gif-converter(1)" src="https://github.com/user-attachments/assets/544b845e-0535-4429-a13b-c36a7c2def4b" />
+
+
+
+
 ## Short summary
 
 Nuclear Simulation is a 2D experimental code which can explore several kinds of nuclear phenomena by employing a mean-field dynamics and a Skyrme potential approximation. This project allows to build nuclei as wave packets, to run the evolution of nuclei and to clearly visualize the real-time evolution for processes such as fusion and fission. Nuclear Simulation is optimized for GPU through Cupy and provides both an interactive UI and a headless script to generate videos.
